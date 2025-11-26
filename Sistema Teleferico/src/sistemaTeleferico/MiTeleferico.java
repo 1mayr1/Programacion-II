@@ -23,6 +23,20 @@ public class MiTeleferico {
             }
         }
     }
+    public void calcularIngresosTotales() {
+        cantidadIngresos = 0;
+        for (Linea linea : lineas) {
+            for (Cabina cabina : linea.getCabinas()) {
+                for (Persona persona : cabina.getPersonasAbordo()) {
+                    if (persona.getEdad() <= 25 || persona.getEdad() >= 60) {
+                        cantidadIngresos += 1.5;
+                    } else {
+                        cantidadIngresos += 3.0;
+                    }
+                }
+            }
+        }
+    }
     public Linea[] getLineas(){
         return lineas;
     } 
@@ -31,3 +45,4 @@ public class MiTeleferico {
 
     }
 }
+
