@@ -1,0 +1,19 @@
+[
+  {
+    "fechaPrestamo": "2025-12-03",
+    "estudiante": {
+      "codigoEstudiante": "2023001",
+      "nombre": "María González"
+    },
+    "libro": {
+      "titulo": "Los Siete Maridos de Evelin Hugo",
+      "isbn": "978-1234456555",
+      "paginas": [
+        {
+          "numeroPag": 1,
+          "contenido": "Evelyn Hugo, el icono de Hollywood que se ha recluido,decide contar la verdad sobre su vida..."
+        }
+      ]
+    }
+  }
+]
