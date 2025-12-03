@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Gabriel Garcia Marquez",
+    "nacionalidad": "Colombiano"
+  },
+  {
+    "nombre": "Mario Vargas Llosa",
+    "nacionalidad": "Peruano"
+  },
+  {
+    "nombre": "Isabel Allende",
+    "nacionalidad": "Chilena"
+  },
+  {
+    "nombre": "Antoine de Saint-Exupéry",
+    "nacionalidad": "Frances"
+  }
+]

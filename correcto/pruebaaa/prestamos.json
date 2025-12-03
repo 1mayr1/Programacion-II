@@ -1,0 +1,23 @@
+[
+  {
+    "fechaPrestamo": "2025-12-03",
+    "estudiante": {
+      "codigoEstudiante": "2023001",
+      "nombre": "María González"
+    },
+    "libro": {
+      "titulo": "Violeta",
+      "isbn": "978-1234567890",
+      "paginas": [
+        {
+          "numeroPag": 1,
+          "contenido": "En una carta dirigida a una persona a la que ama por encima de todas las demás...."
+        }
+      ],
+      "autor": {
+        "nombre": "Mario Vargas Llosa",
+        "nacionalidad": "Peruano"
+      }
+    }
+  }
+]

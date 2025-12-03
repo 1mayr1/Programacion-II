@@ -1,0 +1,21 @@
+[
+  {
+    "titulo": "IT",
+    "isbn": "978-125688882",
+    "paginas": [
+      {
+        "numeroPag": 1,
+        "contenido": "Un grupo de siete amigos en el pueblo de Derry, Maine luchan contra una antigua entidad sobrenatural..."
+      }
+    ],
+    "autor": {
+      "nombre": "Isabel Allende",
+      "nacionalidad": "Chilena"
+    }
+  },
+  {
+    "titulo": "principito",
+    "isbn": "14552298",
+    "paginas": []
+  }
+]
