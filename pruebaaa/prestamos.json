@@ -6,14 +6,18 @@
       "nombre": "María González"
     },
     "libro": {
-      "titulo": "Los Siete Maridos de Evelin Hugo",
-      "isbn": "978-1234456555",
+      "titulo": "Violeta",
+      "isbn": "978-1234567890",
       "paginas": [
         {
           "numeroPag": 1,
-          "contenido": "Evelyn Hugo, el icono de Hollywood que se ha recluido,decide contar la verdad sobre su vida..."
+          "contenido": "En una carta dirigida a una persona a la que ama por encima de todas las demás...."
         }
-      ]
+      ],
+      "autor": {
+        "nombre": "Mario Vargas Llosa",
+        "nacionalidad": "Peruano"
+      }
     }
   }
 ]

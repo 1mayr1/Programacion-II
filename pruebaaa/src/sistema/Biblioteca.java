@@ -15,7 +15,7 @@ public class Biblioteca {
         private String cierre;
         private String diasAtencion;
         
-        // CONSTRUCTOR VACÍO
+       
         public HorarioAtencion() {
         }
 

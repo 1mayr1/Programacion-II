@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class JSONManager {
-    private static final Gson gson = new GsonBuilder()
+    private static final Gson gson=new GsonBuilder()
             .setPrettyPrinting()
             .create();
     
@@ -41,7 +41,7 @@ public class JSONManager {
             return lista;
             
         } catch (IOException e) {
-            System.err.println("❌ Error al cargar " + nombreArchivo + ": " + e.getMessage());
+            System.err.println("Error al cargar " + nombreArchivo + ": " + e.getMessage());
             return new ArrayList<>();
         }
     }

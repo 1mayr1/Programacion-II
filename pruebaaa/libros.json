@@ -1,22 +1,21 @@
 [
   {
-    "titulo": "Violeta",
-    "isbn": "978-1234567890",
-    "paginas": [
-      {
-        "numeroPag": 1,
-        "contenido": "En una carta dirigida a una persona a la que ama por encima de todas las demás...."
-      }
-    ]
-  },
-  {
     "titulo": "IT",
     "isbn": "978-125688882",
     "paginas": [
       {
         "numeroPag": 1,
-        "contenido": "un grupo de siete amigos en el pueblo de Derry, Maineluchan contra una antigua entidad sobrenatural..."
+        "contenido": "Un grupo de siete amigos en el pueblo de Derry, Maine luchan contra una antigua entidad sobrenatural..."
       }
-    ]
+    ],
+    "autor": {
+      "nombre": "Isabel Allende",
+      "nacionalidad": "Chilena"
+    }
+  },
+  {
+    "titulo": "principito",
+    "isbn": "14552298",
+    "paginas": []
   }
 ]
